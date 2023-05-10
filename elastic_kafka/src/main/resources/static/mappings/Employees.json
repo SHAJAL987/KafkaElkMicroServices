@@ -1,0 +1,37 @@
+{
+	"properties":{
+		"EMPLOYEE_ID":{
+			"type":"text"
+		},
+		"FIRST_NAME":{
+			"type":"text"
+		},
+		"LAST_NAME":{
+			"type":"text"
+		},
+		"EMAIL":{
+			"type":"keyword"
+		},
+		"PHONE_NO":{
+			"type":"keyword"
+		},
+		"HIRE_DATE":{
+			"type":"text"
+		},
+		"JOB_ID":{
+			"type":"keyword"
+		},
+		"SALARY":{
+			"type":"text"
+		},
+		"COMMISSION_PCT":{
+			"type":"text"
+		},
+		"MANAGER_ID":{
+			"type":"text"
+		},
+		"DEPARTMENT_ID":{
+			"type":"text"
+		}
+	}
+}
